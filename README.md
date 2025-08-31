@@ -30,7 +30,7 @@ https://www.instagram.com/dreamlandofficial_1?igsh=NTZvcHRkNjlhYzhp
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/david-patrick-chuks/Instagram-AI-Agent.git
+   git clone https://github.com/IlBudda/Riona-AI-Agent-ARM.git
    cd Instagram-AI-Agent
    ```
 
