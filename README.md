@@ -1,5 +1,7 @@
 ## ORIGINAL PROJECT FROM HERE https://github.com/David-patrick-chuks/Riona-AI-Agent
 
+This is a fork for ARM processors and some refinements
+
 ## Instagram-AI-Agent 🌸
 
 Instagram-AI-Agent is an AI-powered automation tool designed for **Instagram** to automate social media interactions such as posting, liking, and commenting. It leverages advanced AI models to generate engaging content, automate interactions, and manage Instagram accounts efficiently.
